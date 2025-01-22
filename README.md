@@ -1,4 +1,4 @@
-# Generate lists of intersecting areas and information about them for input spatial data
+# Generate lists of intersecting areas and information about them
 
 Input:
 1. Spatial data (points, polygons, etc.)
@@ -19,3 +19,6 @@ Example additions to the dataframe
 | natura_2000__spa_ahvenanmaa, yksityiset_suojelualueet | Signilskär-Märket naturreservat | Signilskär - Märket | SPAFI1400047  | Boreaalinen alue |
 | natura_2000__sci_ahvenanmaa_aluemaiset     |                                 | Degersand           | SCIFI1400036  | Boreaalinen alue |
 |                                            |                                 |                     |               | Boreaalinen alue |
+
+Additional credits
+Copilot
